@@ -1,0 +1,4 @@
+include: [Build, TemplateData]
+
+# GitHub Pages'in Brotli ve Gzip sıkıştırma uzantılarını tarayıcıya doğru Content-Encoding ile göndermesini zorunlu kılar
+Encoding: UTF-8
